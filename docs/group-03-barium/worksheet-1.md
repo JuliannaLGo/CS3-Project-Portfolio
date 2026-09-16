@@ -9,12 +9,12 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
+| **Team Members**           | 1. Betarmos, Franko Liam     |
+|                            | 2. Ipanag, Kennedy Clyde    |
+|                            | 3. Libre, Codie John Zyrene      |
+|                            | 4. Cabigas, Mherie Alexie     |
+|                            | 5. Celzo, Yesha      |
+|                            | 6. Go, Julianna Beatrice    |
 | **PSHS-DRC Area/Location** |         |
 
 ---
