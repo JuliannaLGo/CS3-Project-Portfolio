@@ -39,8 +39,8 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1. Supply Office In-Charge | Handles students' records of borrowed books |
+| 2. Student | Keeps physical copy of their borrowed book's details ( name, ID, date borrowed) |
 
 ### 4. What are the steps in the current process?
 
