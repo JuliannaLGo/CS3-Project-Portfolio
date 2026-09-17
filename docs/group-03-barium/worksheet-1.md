@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> The process of claiming books in the supply office is difficult when it is done manually. We have observed that it would take time to fill the form, and theres a possibility that the paper would be lost. 
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> The paper form that is needed to fill to claim books should be improved.  
 
 <br>
 
