@@ -40,17 +40,17 @@
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
 | 1. Supply Office In-Charge | Handles students' records of borrowed books |
-| 2. Student | Keeps physical copy of their borrowed book's details ( name, ID, date borrowed) |
+| 2. Student | Keeps physical copy of their borrowed book's details ( title, ID, date borrowed) |
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    | Go-signal & time range for claiming of books relayed to students| Supply Office In-Charge |
+| 2    | Student recieves book to be borrowed; student's signature recorded in private document | Student |
+| 3    | Student name, book borrowed, and date claimed recorded into document or database | Supply Office In-Charge |
+| 4    | Student keeps borrowed books document throughout school year | Student |
+| 5    | Student returns book by at the end of the school year, possible damages or loss of book is recorded | Student, Supply Office In-Charge|
 
 ---
 
