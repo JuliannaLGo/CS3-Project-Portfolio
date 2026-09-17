@@ -74,16 +74,15 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
-
+> It would take the name, grade level, section, student id, book title, book id, school year.
 <br>
 
 ### 2. Who would use the system?
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1. Supply Office S†aff       |  Record the information needed from the student when the books are borrowed.|
+| 2. Student      | Inputs all the needed information into the system.|
 
 ### 3. What are the essential features?
 
@@ -91,6 +90,6 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1. Add Data     | Records the students info and the school year, and the student can be assigned with the books information from the books they borrowed.|
+| 2. Remove Data      | Remove the specific info (e.g. student id, book title, book id, etc.)|
+| 3. Search Bar     | Searches a wide variety of data under specific condition (e.g. searching a specific students name or student id.)|
