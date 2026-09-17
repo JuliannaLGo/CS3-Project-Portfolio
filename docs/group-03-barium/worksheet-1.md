@@ -8,14 +8,14 @@
 
 | Information                | Details |
 | -------------------------- | ------- |
-| **Proposed Project Title** |         |
+| **Proposed Project Title** | Supply Office Database       |
 | **Team Members**           | 1. Betarmos, Franko Liam     |
 |                            | 2. Ipanag, Kennedy Clyde    |
 |                            | 3. Libre, Codie John Zyrene      |
 |                            | 4. Cabigas, Mherie Alexie     |
 |                            | 5. Celzo, Yesha      |
 |                            | 6. Go, Julianna Beatrice    |
-| **PSHS-DRC Area/Location** |         |
+| **PSHS-DRC Area/Location** | Supply Office        |
 
 ---
 
@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> The registering of books upon collection at the supply office.
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> To record the books collected by the student and to take note of them in case they get lost. 
 
 <br>
 
